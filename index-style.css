@@ -2,8 +2,30 @@ h1{
     text-align: center;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    color: yellow;
+    padding: 24px;
+    margin: 0px auto;
 }
-a{
-    font-size: 48px;
-    color: blueviolet;
+ul{
+    
+}
+li{
+    text-align: center;
+    font-size: 40px;
+    margin: 50px auto;
+    color: #fff;
+}
+li a{
+    color: yellow;
+    background-color: lightblue;
+    padding: 10px;
+    
+}
+#home{
+    margin: 30px auto;
+    color: darkblue;
+    display: inline-block;
+    margin: 100px auto;
+    text-decoration: none;
 }
